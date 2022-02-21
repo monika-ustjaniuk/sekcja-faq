@@ -1,0 +1,21 @@
+hr {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.accordion-button {
+    color:orange
+}
+
+button:hover {
+    text-decoration: underline rgb(185, 185, 185);
+    color: gray;
+    
+
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+    color: gray;
+
+}
